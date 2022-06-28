@@ -8,9 +8,9 @@ namespace Lab4_V7
 {
     public class BigShip:Ship
     {
-        public BigShip(int cap, int pas): base(cap, pas)
+        public BigShip(int cap, int pas): base(cap, pas) 
         {
-
+            //this is test of lunch pull request
         }
 
     }
