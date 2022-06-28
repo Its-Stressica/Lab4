@@ -1,0 +1,16 @@
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.exe
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.deps.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.runtimeconfig.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.runtimeconfig.dev.json
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\ref\Lab4_V7.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\bin\Debug\net5.0\Lab4_V7.pdb
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.csproj.AssemblyReference.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.GeneratedMSBuildEditorConfig.editorconfig
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.AssemblyInfoInputs.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.AssemblyInfo.cs
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.csproj.CoreCompileInputs.cache
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\ref\Lab4_V7.dll
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.pdb
+G:\Study\KPI\ІІ семестр\C.sharp\Labs\Lab4\Lab4_V7\Lab4_V7\obj\Debug\net5.0\Lab4_V7.genruntimeconfig.cache
